@@ -1,13 +1,5 @@
-<p style="text-align:center;">
-  <img src="https://plaid-lib.github.io/assets/images/PLAID-large-logo.png" alt="logo" title="Logo" class="align-center" style="width:40%;"/>
-</p>
-
-<p align="center">
-  <img src="https://plaid-lib.github.io/assets/images/PLAID-large-logo.png" width="60%" alt="PLAID Benchmarks"/>
-</p>
-
 <div align="center">
-  <img src="https://plaid-lib.github.io/assets/images/PLAID-large-logo.png" width="60%" alt="PLAID Benchmarks"/>
+  <img src="https://plaid-lib.github.io/assets/images/PLAID-large-logo.png" width="40%" alt="PLAID"/>
 </div>
 
 
