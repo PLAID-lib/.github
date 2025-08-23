@@ -2,6 +2,15 @@
   <img src="https://plaid-lib.github.io/assets/images/PLAID-large-logo.png" alt="logo" title="Logo" class="align-center" style="width:40%;"/>
 </p>
 
+<p align="center">
+  <img src="../assets/images/plaid_benchmarks.png" width="60%" alt="PLAID Benchmarks"/>
+</p>
+
+<div align="center">
+  <img src="../assets/images/plaid_benchmarks.png" width="60%" alt="PLAID Benchmarks"/>
+</div>
+
+
 # Physics-Learning AI Datamodel
 
 ## Introduction
