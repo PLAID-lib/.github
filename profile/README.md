@@ -1,8 +1,8 @@
-# Physics-Learning AI Datamodel
-
 <p style="text-align:center;">
-  <img src="https://plaid-lib.github.io/assets/images/PLAID-large-logo.png" alt="logo" title="Logo" style="width:40%;"/>
+  <img src="https://plaid-lib.github.io/assets/images/PLAID-large-logo.png" alt="logo" title="Logo" class="align-center" style="width:40%;"/>
 </p>
+
+# Physics-Learning AI Datamodel
 
 ## Introduction
 
