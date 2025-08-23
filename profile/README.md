@@ -3,11 +3,11 @@
 </p>
 
 <p align="center">
-  <img src="../assets/images/plaid_benchmarks.png" width="60%" alt="PLAID Benchmarks"/>
+  <img src="https://plaid-lib.github.io/assets/images/PLAID-large-logo.png" width="60%" alt="PLAID Benchmarks"/>
 </p>
 
 <div align="center">
-  <img src="../assets/images/plaid_benchmarks.png" width="60%" alt="PLAID Benchmarks"/>
+  <img src="https://plaid-lib.github.io/assets/images/PLAID-large-logo.png" width="60%" alt="PLAID Benchmarks"/>
 </div>
 
 
