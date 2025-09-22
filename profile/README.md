@@ -38,6 +38,10 @@ The open source project is hosted on GitHub under the [PLAID-lib](https://github
 - [plaid-bridges](https://github.com/PLAID-lib/plaid-bridges): provides integrations into machine learning frameworks such as PyTorch Geometric.
 - [plaid-ops](https://github.com/PLAID-lib/plaid-ops): a collection of standardized operations on PLAID samples and datasets, including advanced treatments on meshes (some requiring a finite-element engine) powered by [muscat](https://gitlab.com/drti/muscat).
 
+- [<img src="../assets/images/PLAID-large-logo.png" style="height:20px; vertical-align:middle"/>](https://github.com/PLAID-lib/plaid) is the core library of the PLAID project.
+- [<img src="../assets/images/plaid-bridges-logo.png" style="height:20px; vertical-align:middle"/>](https://github.com/PLAID-lib/plaid-bridges): provides integrations into machine learning frameworks such as PyTorch Geometric.
+- [<img src="../assets/images/plaid-ops-logo.png" style="height:20px; vertical-align:middle"/>](https://github.com/PLAID-lib/plaid-ops): a collection of standardized operations on PLAID samples and datasets, including advanced treatments on meshes (some requiring a finite-element engine) powered by [muscat](https://gitlab.com/drti/muscat).
+
 ## Paper
 
 Check out the [PLAID preprint](https://arxiv.org/abs/2505.02974) recently submitted to arXiv!
