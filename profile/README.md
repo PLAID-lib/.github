@@ -26,17 +26,9 @@ PLAID fills this gap by sitting *upstream* in the ML pipeline, bridging raw scie
 
 1. Capture the full structure: PLAID preserves hierarchical, multi-field, multi-zone data, including metadata.
 2. Simplify access: intuitive APIs let you query fields, arrays, and derived quantities without flattening or rewriting your trees.
-3. Prepare for ML: PLAID can generate PyTorch datasets, Hugging Face datasets, or PyG graph objects, so batching and training pipelines work seamlessly, while keeping memory and computation efficient.
 
 In short: PLAID is not “just another dataset format.” It is a scientific data management layer, designed for the complex, heterogeneous, high-dimensional world of physics-based simulations, where preparing your data for ML (whether columnar or graph-structured) is as important as the model itself.
 
-## Open source
-
-The open source project is hosted on GitHub under the [PLAID-lib](https://github.com/PLAID-lib) organization. The project currently contains three librairies:
-
-- [<img src="https://plaid-lib.github.io/assets/images/PLAID-large-logo.png" style="height:20px; vertical-align:middle"/>](https://github.com/PLAID-lib/plaid) is the core library of the PLAID project.
-- [<img src="https://plaid-lib.github.io/assets/images/plaid-bridges-logo.png" style="height:20px; vertical-align:middle"/>](https://github.com/PLAID-lib/plaid-bridges) provides integrations into machine learning frameworks such as PyTorch Geometric.
-- [<img src="https://plaid-lib.github.io/assets/images/plaid-ops-logo.png" style="height:20px; vertical-align:middle"/>](https://github.com/PLAID-lib/plaid-ops) a collection of standardized operations on PLAID samples and datasets, including advanced treatments on meshes (some requiring a finite-element engine) powered by [muscat](https://gitlab.com/drti/muscat).
 
 ## Paper
 
