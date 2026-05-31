@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://plaid-lib.github.io/assets/images/PLAID-large-logo.png" width="35%" alt="PLAID"/>
+  <img src="https://plaid-lib.github.io/assets/images/plaid_logo2.png" width="35%" alt="PLAID"/>
 </div>
 
 
@@ -32,4 +32,4 @@ In short: PLAID is not “just another dataset format.” It is a scientific dat
 
 ## Paper
 
-Check out the [PLAID preprint](https://arxiv.org/abs/2505.02974) recently submitted to arXiv!
+Check out the [PLAID paper](https://arxiv.org/abs/2505.02974), accepted at ICML AI4Physics Workshop, 2026.
